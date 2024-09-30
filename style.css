@@ -5,26 +5,23 @@ body {
 
 .main {
   max-width: 321px;
-  height: 444px;
+  max-height: 444px;
   flex-shrink: 0;
   border-radius: 20px;
   border: 9px solid #476e4b;
   background: #f5f5ef;
   box-shadow: 8px 11px 4px 0px rgba(0, 0, 0, 0.5);
   padding-top: 33px;
+  padding-bottom: 48px;
 }
 
-div {
+.secondary {
   max-width: 202px;
-  height: 145px;
-  flex-shrink: 0;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0px 7px 0px 7px;
-  display: block;
+  max-height: 145px;
+  margin: 23px auto 22px auto;
+  padding: 29px 7px 28px 6px;
   border-radius: 13px;
   background: #fff;
-  margin-bottom: 0px;
 }
 img {
   width: 98px;
@@ -48,18 +45,16 @@ h1 {
 }
 
 p {
+  width: 189px;
+  height: 88px;
   color: #1f1502;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
-  line-height: 22px;
   text-align: left;
-  margin-bottom: 0px;
-  margin-top: 10px;
 }
 
 hr {
   max-width: 202px;
   height: 1px;
-  margin-bottom: 23px;
 }
