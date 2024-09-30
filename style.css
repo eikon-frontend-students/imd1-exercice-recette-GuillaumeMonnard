@@ -3,7 +3,7 @@ body {
   src: "Minecraft.ttf";
 }
 
-.main {
+main {
   max-width: 321px;
   max-height: 444px;
   flex-shrink: 0;
@@ -15,7 +15,7 @@ body {
   padding-bottom: 48px;
 }
 
-.secondary {
+div {
   max-width: 202px;
   max-height: 145px;
   margin: 23px auto 22px auto;
