@@ -58,3 +58,8 @@ hr {
   max-width: 202px;
   height: 1px;
 }
+
+a {
+  color: #1f1502;
+  text-decoration: none;
+}
