@@ -1,0 +1,66 @@
+body {
+  font-family: Minecraft;
+  src: "Minecraft.ttf";
+  text-align: center;
+}
+
+main {
+  max-width: 321px;
+  max-height: 444px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  border: 9px solid #476e4b;
+  background: #f5f5ef;
+  box-shadow: 8px 11px 4px 0px rgba(0, 0, 0, 0.5);
+  padding-top: 33px;
+  padding-bottom: 48px;
+}
+
+div {
+  max-width: 202px;
+  max-height: 145px;
+  margin: 23px auto 22px auto;
+  padding: 29px 7px 28px 6px;
+  border-radius: 13px;
+  background: #fff;
+}
+img {
+  width: 98px;
+  height: 98px;
+  flex-shrink: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 23px;
+}
+
+h1 {
+  color: #1f1502;
+  height: 22px;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+  margin-bottom: 52px;
+}
+
+p {
+  width: 189px;
+  height: 88px;
+  color: #1f1502;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  text-align: left;
+}
+
+hr {
+  max-width: 202px;
+  height: 1px;
+}
+
+a {
+  color: #1f1502;
+  text-decoration: none;
+}
