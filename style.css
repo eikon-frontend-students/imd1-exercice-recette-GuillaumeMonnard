@@ -1,6 +1,7 @@
 body {
   font-family: Minecraft;
   src: "Minecraft.ttf";
+  text-align: center;
 }
 
 main {
